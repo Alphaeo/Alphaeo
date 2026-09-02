@@ -7,9 +7,9 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Data+Enthusiast;Ex+AI+Engineer+%40+Seoul;Mines+Nancy+x+ESSEC" alt="Typing SVG" />
 
-I'm a Software Engineer trained at **École des Mines de Nancy** and **ESSEC Business School**, with a soft spot for AI, distributed systems, and financial data platforms. I've built ML pipelines and cloud services from Seoul to Tokyo, co-founded an AI startup (Top 20, K-Startup Grand Challenge), and I like to spend my free time shipping side projects — from a local LLM screen agent to a C++ ML library built from scratch.
+I'm a Software Engineer with a soft spot for AI, distributed systems, and financial data platforms. I've built ML pipelines and cloud services from Seoul to Tokyo, co-founded an AI startup, and I like to spend my free time shipping side projects...from a local LLM screen agent to a C++ ML library built from scratch.
 
-- 🔭 I'm currently working on **InsightMatches Platform**
+- 🔭 I'm currently working on **Chiika Environment**
 - 🌱 I'm currently learning **Networking, Rust, Haskell**
 - 📫 How to reach me **louis.mathis2002@gmail.com**
 
