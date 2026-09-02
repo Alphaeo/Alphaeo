@@ -39,13 +39,13 @@ I'm a Software Engineer with a soft spot for AI, distributed systems, and financ
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Plant-watering-planning](https://huggingface.co/spaces/Crocolil/HackatonSmall)** 🌿 | A Gradio app built for the Build Small Hackathon: identifies plants from a photo and generates personalized daily watering schedules based on real-time weather — built end-to-end under small-model constraints. | `Gradio` `SigLIP` `Small Models` |
-| **[Repro: Kuramoto Oscillatory Phase Encoding (KoPE)](https://huggingface.co/spaces/Crocolil/Repro-KoPE)** 🎯 | An open, Trackio-logged reproduction of ["Kuramoto Oscillatory Phase Encoding"](https://huggingface.co/papers/2604.07904) (ICML 2026) — a neuro-inspired synchronization method that improves Vision Transformer training efficiency. | `PyTorch` `Trackio` `ViT` |
+| **[Plant-watering-planning](https://huggingface.co/spaces/Crocolil/HackatonSmall)** 🌿 | A Gradio app built for the Build Small Hackathon: identifies plants from a photo and generates personalized daily watering schedules based on real-time weather, built end-to-end under small-model constraints. | `Gradio` `SigLIP` `Small Models` |
+| **[Repro: Kuramoto Oscillatory Phase Encoding (KoPE)](https://huggingface.co/spaces/Crocolil/Repro-KoPE)** 🎯 | An open, Trackio-logged reproduction of ["Kuramoto Oscillatory Phase Encoding"](https://huggingface.co/papers/2604.07904) for Microsoft (ICML 2026), a neuro-inspired synchronization method that improves Vision Transformer training efficiency. | `PyTorch` `Trackio` `ViT` |
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alphaeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Louis's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alphaeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="" />
   <img height="165" src="https://streak-stats.demolab.com/?user=Alphaeo&theme=tokyonight&hide_border=true" alt="Louis's GitHub streak" />
 </p>
 
