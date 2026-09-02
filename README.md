@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Louis&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20Data&descAlignY=62&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Louis&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20DataanddescAlignY=62&descAlign=50" />
 
 <h1 align="center">Hello 👋, I'm Louis</h1>
 <h3 align="center">A passionate Software engineer from France</h3>
