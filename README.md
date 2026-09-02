@@ -1,11 +1,11 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Louis&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20%26%20DataanddescAlignY=62&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Louis&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20and%20Data&descAlignY=62&descAlign=50" />
 
 <h1 align="center">Hello 👋, I'm Louis</h1>
 <h3 align="center">A passionate Software engineer from France</h3>
 
 ### 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Data+Enthusiast;Ex+AI+Engineer+%40+Seoul;Mines+Nancy+x+ESSEC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+and+Data+Enthusiast;Ex+AI+Engineer+%40+Seoul;Mines+Nancy+x+ESSEC" alt="Typing SVG" />
 
 I'm a Software Engineer with a soft spot for AI, distributed systems, and financial data platforms. I've built ML pipelines and cloud services from Seoul to Tokyo, co-founded an AI startup, and I like to spend my free time shipping side projects...from a local LLM screen agent to a C++ ML library built from scratch.
 
