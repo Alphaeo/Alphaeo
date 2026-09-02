@@ -4,7 +4,10 @@
 
 ### 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+and+Data+Enthusiast;Ex+AI+Engineer+%40+Seoul;Mines+Nancy+x+ESSEC" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+and+Data+Enthusiast;Ex+AI+Engineer+%40+Seoul;Mines+Nancy+x+ESSEC" alt="Typing SVG" />
+</p>
+
 
 I'm a Software Engineer with a soft spot for AI, distributed systems, and financial data platforms. I've built ML pipelines and cloud services from Seoul to Tokyo, co-founded an AI startup, and I like to spend my free time shipping side projects...from a local LLM screen agent to a C++ ML library built from scratch.
 
