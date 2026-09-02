@@ -28,6 +28,24 @@ I'm a Software Engineer with a soft spot for AI, distributed systems, and financ
 | **[Chiika0.0](https://github.com/Alphaeo/Chiika0.0)** | A minimal multimodal (text + image) model built from scratch as a lightweight architectural testbed for ChiikaScreen, implementing and validating modern research techniques — RoPE, GQA, RMSNorm, SwiGLU, and a ViT vision encoder. | `PyTorch` |
 | **[ChiikaMl](https://github.com/Alphaeo/ChiikaMl)** | A high-performance C++ machine learning library built from the ground up — kNN, KD-Tree, K-Means, decision trees, and random forests — with a focus on cache-friendly data structures, multithreading, and SIMD. Includes Python bindings and a React visualization dashboard. | `C++17` `CMake` `pybind11` `React` |
 
+### 🤗 Hugging Face
+
+<p align="left">
+  <a href="https://huggingface.co/Crocolil" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Crocolil-FFD21E?style=for-the-badge" alt="Hugging Face profile"/></a>
+</p>
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Plant-watering-planning](https://huggingface.co/spaces/Crocolil/HackatonSmall)** 🌿 | A Gradio app built for the Build Small Hackathon: identifies plants from a photo and generates personalized daily watering schedules based on real-time weather — built end-to-end under small-model constraints. | `Gradio` `SigLIP` `Small Models` |
+| **[Repro: Kuramoto Oscillatory Phase Encoding (KoPE)](https://huggingface.co/spaces/Crocolil/Repro-KoPE)** 🎯 | An open, Trackio-logged reproduction of ["Kuramoto Oscillatory Phase Encoding"](https://huggingface.co/papers/2604.07904) (ICML 2026) — a neuro-inspired synchronization method that improves Vision Transformer training efficiency. | `PyTorch` `Trackio` `ViT` |
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alphaeo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Louis's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Alphaeo&theme=tokyonight&hide_border=true" alt="Louis's GitHub streak" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Alphaeo&label=Profile%20views&color=58A6FF&style=flat" alt="Louis Mathis profile views" />
 </p>
